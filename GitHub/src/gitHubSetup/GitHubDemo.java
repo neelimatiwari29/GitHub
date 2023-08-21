@@ -8,6 +8,8 @@ public class GitHubDemo {
 		System.out.println("hello gitHub");
 		int a=10;
 		float b= 20.5f;
+		int c=21;
+		
 	}
 
 }
